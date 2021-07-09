@@ -18,6 +18,7 @@ Before the linear regression model, 3 questions will be answered to understand a
 After importing libraries and the dataset, I explored all the columns and their data. 
 From this overall view, I choosed 3 questions to answer for my analyse.
 Before to answer to these questions, it's primordial to step by step clean the dataset. 
+
  1 --> Standrdizing the clomuns' name will make easier the manipulation of the dataset. 
 
  2 --> regarding to the huge amount of the columns (107 columns) in the dataset, I decided to create directly a new dataframe with the columns that I need for my 3 questions and for the linear regression model.
@@ -65,6 +66,8 @@ During this project, i had the idea that the columns that I choose are impacting
 
 # 6 Linear Regression
 To simply the generation of the OLS Regression Results for the linear model, I created a new dataframe which contains only the numerical columns.
+
+<img src="LR">
 
 When we run the model, R-squared is equal to 0.589
 Contrary to what one might think, this score is not bad. 
