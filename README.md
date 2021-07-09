@@ -9,6 +9,7 @@ The second purpose is to see if the linear regression model fits to this data wi
 
 # 2 List of questions/hypothesis
 Before the linear regression model, 3 questions will be answered to understand and analyse the dataset. 
+
     - Is the right or left player's foot who has the best perfromance ?
     - Top 3 players between 25 and 30 years old with the best performance.
     - Top 3 countries with the best market value of the player.

@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+hmap.png
+LR
+fifa21_male2.csv
